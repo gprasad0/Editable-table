@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is a Editable table using devExpress Reactgrid.
+It has Add, Edit and Delete options.The
+It also incorporates Am charts in order to render a graph.The Graph takes the value from the Database .The values or the data  is added to the database using the table's Add option.
+
+FrontEnd : React  ,  Backend : Node Js, Express js  ,  Database:Mysql
+
 ## Available Scripts
 
 In the project directory, you can run:
